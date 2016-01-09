@@ -10,6 +10,7 @@ I am havening the 3 circuit boards mass produced.  If you would like a set of bo
 Also, I am a mechanical engineer so I am always looking for coding and circuit recomendations from you software and EE people.  I would love to hear how to make this project better and more efficient!
 
 Known Issues (I would love to hear a solution): 
+
 1. On one unit there is a static/hum noise from the speaker at all times that the other unit doesn't have. I don't know why and figure out the difference. 
 
 2. On one unit the display has some static on it, it doesn't effect the gameplay but you can see it if you are really looking for it and it is pissing me off. It is almost like the display is low on power. Maybe there is a little too much voltage drop across the MOSFET... I dunno 
