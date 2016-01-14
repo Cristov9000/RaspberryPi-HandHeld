@@ -7,7 +7,7 @@ Here you will find the .stl files that you will need to 3D print the case as wel
 
 I am havening the 3 circuit boards mass produced.  If you would like a set of boards please send PayPal payment of $26 to Cristov9000@gmail.com.  This price INCLUDES all 3 unpopulated circuitboards, SHIPPING to the CONTINENTAL USA, handeling, the envelope, paypal fees, everything.  It's all inclusive.  If you would like more than one set, please add $21 for each set you would like on top of the original $26.  For example, if you want 3 sets of boards, that you would be $26 + $21 + $21 or $68.  If you are ourside the USA please send me an email at Cristov9000@gmail.com and we can work out shipping.  As of 1/9/2016 the first batch of boards are order and I expect them in 20 days.  I will ship them out first come first serve based on when the payments come in.
 
-THERE ARE ONLY 9 SETS OF BOARDS LEFT FROM THE FIRST 2 BATCHES.  I DO NOT KNOW IF THERE WILL BE A THIRD BATCH SINCE IT DEPENDS ON DEMAND.  GET YOUR ORDERS IN SOON!
+AS OF 1/13/16 THERE ARE ONLY 5 SETS OF BOARDS LEFT FROM THE FIRST 2 BATCHES.  I DO NOT KNOW IF THERE WILL BE A THIRD BATCH SINCE IT DEPENDS ON DEMAND.  GET YOUR ORDERS IN SOON!
 
 Also, I am a mechanical engineer so I am always looking for coding and circuit recomendations from you software and EE people.  I would love to hear how to make this project better and more efficient!
 
