@@ -5,9 +5,17 @@ Thank you for checking out my instructions on how to build your own SuperGameGir
 
 Here you will find the .stl files that you will need to 3D print the case as well as the softwear that you will need to load onto the Pi and the ATTiny85.
 
-I am havening the 3 circuit boards mass produced.  If you would like a set of boards please send PayPal payment of $26 to Cristov9000@gmail.com.  This price INCLUDES all 3 unpopulated circuitboards, SHIPPING to the CONTINENTAL USA, handeling, the envelope, paypal fees, everything.  It's all inclusive.  If you would like more than one set, please add $21 for each set you would like on top of the original $26.  For example, if you want 3 sets of boards, that you would be $26 + $21 + $21 or $68.  If you are ourside the USA please send me an email at Cristov9000@gmail.com and we can work out shipping.  As of 1/9/2016 the first batch of boards are order and I expect them in 20 days.  I will ship them out first come first serve based on when the payments come in.
+****I am havening the 3 circuit boards mass produced.  If you would like a set of boards please send PayPal payment of $26 to Cristov9000@gmail.com.  This price INCLUDES all 3 unpopulated circuitboards, SHIPPING to the CONTINENTAL USA, handeling, the envelope, paypal fees, everything.  It's all inclusive.  If you would like more than one set, please add $21 for each set you would like on top of the original $26.  For example, if you want 3 sets of boards, that you would be $26 + $21 + $21 or $68.  If you are outside the USA please send me an email at Cristov9000@gmail.com and we can work out shipping.  
 
-AS OF 1/13/16 THERE ARE ONLY 5 SETS OF BOARDS LEFT FROM THE FIRST 2 BATCHES.  I DO NOT KNOW IF THERE WILL BE A THIRD BATCH SINCE IT DEPENDS ON DEMAND.  GET YOUR ORDERS IN SOON!
+-As of 1/9/2016 the first batch of boards are ordered and I expect them in 20 days.  
+
+-As of 1/14/2016 the board house say that the boards are in production!
+
+-AS OF 1/15/16 THERE ARE ONLY 2 SETS OF BOARDS LEFT FROM THE FIRST 2 BATCHES.  THERE WILL MOST LIKELY NOT BE A THIRD BATCH SINCE DEMAND HAS LEVELED OFF AND I WOULD NEED 30 MORE PEOPLE FOR ANOTHER RUN.  GET YOUR ORDERS IN SOON!
+
+
+
+
 
 Also, I am a mechanical engineer so I am always looking for coding and circuit recomendations from you software and EE people.  I would love to hear how to make this project better and more efficient!
 
