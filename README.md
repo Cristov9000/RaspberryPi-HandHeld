@@ -13,6 +13,8 @@ Here you will find the .stl files that you will need to 3D print the case as wel
 
 -AS OF 1/16/16 The boards are SOLD OUT!!!!
 
+-As of 1/26/16 The board house says that the boards are done and they are being shipped to me.  I should see them this weekend of early next week.  Everyone that ordered a chip,the chips have arrived and they are all programmed and ready to go!  
+
 
 
 
