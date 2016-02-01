@@ -15,6 +15,8 @@ Here you will find the .stl files that you will need to 3D print the case as wel
 
 -As of 1/26/16 The board house says that the boards are done and they are being shipped to me.  I should see them this weekend of early next week.  Everyone that ordered a chip,the chips have arrived and they are all programmed and ready to go!  
 
+-As of 1/31/16 The boards have arrived!  I repackaged them and they are sitting here waiting for the post office to open tomorrow to be shipped out.  Thank you to everyone that ordered!  Send me some pics of your units when you get them!
+
 
 
 
