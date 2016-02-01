@@ -17,6 +17,8 @@ Here you will find the .stl files that you will need to 3D print the case as wel
 
 -As of 1/31/16 The boards have arrived!  I repackaged them and they are sitting here waiting for the post office to open tomorrow to be shipped out.  Thank you to everyone that ordered!  Send me some pics of your units when you get them!
 
+-As of 2/1/16 All orders paid for on 1/31 or earlier have been shipped out!  Remaning orders will be shipped tomorrow.
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
