@@ -5,19 +5,17 @@ Thank you for checking out my instructions on how to build your own SuperGameGir
 
 Here you will find the .stl files that you will need to 3D print the case as well as the softwear that you will need to load onto the Pi and the ATTiny85.
 
-****I am havening the 3 circuit boards mass produced. THE BOARDS ARE SOLD OUT!!!  There are no plans for any future board production unless there is significant demand!  If there is another company that would like to take up producing these boards to stock them please email me at Cristov9000@gmail.com
+****THE BOARDS ARE GOING BACK INTO PRODUCTION DUE TO AN INCREASE IN DEMAND.  PRE-ORDERS ARE OPEN!  I expect to have the boards in 4-5 weeks from 2/26/2016
 
--As of 1/9/2016 the first batch of boards are ordered and I expect them in 20 days.  
+One set of boards $28 including shipping and packaging to the lower 48 US states.
+Each addition set of boards you want is $23.
+Each Preprogrammed ATTiny85 shipped with the boards is $5
+Shipping to Canada/Alaska/Hawaii add $3 to the total
+Shipping to any other country that is not the USA or Canada add $5 to the total
 
--As of 1/14/2016 the board house say that the boards are in production!
+Paypal to Cristov9000@gmail.com and please make sure your shipping address is included
 
--As of 1/16/16 The boards are SOLD OUT!!!!
-
--As of 1/26/16 The board house says that the boards are done and they are being shipped to me.  I should see them this weekend of early next week.  Everyone that ordered a chip,the chips have arrived and they are all programmed and ready to go!  
-
--As of 1/31/16 The boards have arrived!  I repackaged them and they are sitting here waiting for the post office to open tomorrow to be shipped out.  Thank you to everyone that ordered!  Send me some pics of your units when you get them!
-
--As of 2/1/16 All orders paid for on 1/31 or earlier have been shipped out!  Remaning orders will be shipped tomorrow.
+For any questions do not hesitate to email me at Cristov9000@gmail.com
 
 
 
