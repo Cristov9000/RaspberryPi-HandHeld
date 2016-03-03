@@ -2,7 +2,7 @@
 //
 //  pm4.c - by Chris Duerden
 //	SuperGameGirl Power Management program for ATTiny85
-/	9/9/2015	RevA - Initial Release
+//	9/9/2015	RevA - Initial Release
 //	9/20/2015	RevB - Added sw debounce to while loop
 //	9/30/2015	RevC - Fixed issue with power switch being 
 //						turned off before full Rpi boot
