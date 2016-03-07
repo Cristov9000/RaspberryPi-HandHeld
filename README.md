@@ -18,6 +18,7 @@ Paypal to Cristov9000@gmail.com and please make sure your shipping address is in
 For any questions do not hesitate to email me at Cristov9000@gmail.com
 
 - 2/29/2016 - Another batch of boards were ordered.  I expect them in 25 days or less from today.  Boards are still available to order.
+- 3/5/2016 - The boards are in production.  I expect them in 20 days or so.  There are still a few boards left in this batch available for order.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
