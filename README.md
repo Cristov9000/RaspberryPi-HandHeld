@@ -19,6 +19,7 @@ For any questions do not hesitate to email me at Cristov9000@gmail.com
 
 - 2/29/2016 - Another batch of boards were ordered.  I expect them in 25 days or less from today.  Boards are still available to order.
 - 3/5/2016 - The boards are in production.  I expect them in 20 days or so.  There are still a few boards left in this batch available for order.
+- 3/12/2016 - The boards are out of production and are being mailed to me.  Expected delivery date is late next week.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
