@@ -5,21 +5,13 @@ Thank you for checking out my instructions on how to build your own SuperGameGir
 
 Here you will find the .stl files that you will need to 3D print the case as well as the softwear that you will need to load onto the Pi and the ATTiny85.
 
-****THE BOARDS ARE GOING BACK INTO PRODUCTION DUE TO AN INCREASE IN DEMAND.  PRE-ORDERS ARE OPEN!  I expect to have the boards in 4-5 weeks from 2/26/2016
+****I am pleased to announce that Kitsch-Bent will be taking over production of these boards and stocking them so people can buy then whenever they want.  This both frees me up to create new retrogaming projects and give everyone a constant supply of parts for the project from an established and knowledgeable retrogaming company.  Its a win for everyone!  If you would like to order parts please see http://www.supergamegirl.com/. Thank you to everyone for your support, I really appreciate it and never expected this project to blow up like that.  But, as they say, on to the next one!
 
-One set of boards $28 including shipping and packaging to the lower 48 US states.
-Each addition set of boards you want is $23.
-Each Preprogrammed ATTiny85 shipped with the boards is $5
-Shipping to Canada/Alaska/Hawaii add $3 to the total
-Shipping to any other country that is not the USA or Canada add $5 to the total
-
-Paypal to Cristov9000@gmail.com and please make sure your shipping address is included
-
-For any questions do not hesitate to email me at Cristov9000@gmail.com
 
 - 2/29/2016 - Another batch of boards were ordered.  I expect them in 25 days or less from today.  Boards are still available to order.
 - 3/5/2016 - The boards are in production.  I expect them in 20 days or so.  There are still a few boards left in this batch available for order.
 - 3/12/2016 - The boards are out of production and are being mailed to me.  Expected delivery date is late next week.
+- 3/18/2016 - The boards have arrived to me from the manufacturer, I will pack and ship tonight and tomorrow.  Thank you everyone for your support.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
